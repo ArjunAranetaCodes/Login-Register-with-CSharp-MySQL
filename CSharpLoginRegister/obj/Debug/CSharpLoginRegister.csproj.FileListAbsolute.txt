@@ -1,0 +1,9 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\bin\Debug\CSharpLoginRegister.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\bin\Debug\CSharpLoginRegister.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\bin\Debug\CSharpLoginRegister.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\obj\Debug\CSharpLoginRegister.csprojResolveAssemblyReference.cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\obj\Debug\CSharpLoginRegister.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\obj\Debug\CSharpLoginRegister.Properties.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\obj\Debug\CSharpLoginRegister.csproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\obj\Debug\CSharpLoginRegister.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpLoginRegister\CSharpLoginRegister\obj\Debug\CSharpLoginRegister.pdb
